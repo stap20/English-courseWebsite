@@ -1,0 +1,30 @@
+{
+  "name": "english-coursewebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stap20/English-courseWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stap20/English-courseWebsite/issues"
+  },
+  "homepage": "https://github.com/stap20/English-courseWebsite#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "install": "^0.13.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
