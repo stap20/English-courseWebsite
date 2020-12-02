@@ -1,0 +1,10 @@
+address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+.footer {
+  background-color: $secondary-color;
+  @include zero-margin(20px, 0px);
+}
